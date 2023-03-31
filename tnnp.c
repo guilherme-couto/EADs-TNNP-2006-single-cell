@@ -1,5 +1,5 @@
 /*-----------------------------------------------------
-Monodomain with the ten Tusscher model 2006
+ten Tusscher model 2006
 Author: Guilherme Couto
 FISIOCOMP - UFJF
 ------------------------------------------------------*/
