@@ -1,4 +1,5 @@
-last-teste*.txt
+*.txt
+*.ipynb
 
 # Prerequisites
 *.d
